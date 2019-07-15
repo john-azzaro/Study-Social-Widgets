@@ -1,0 +1,5 @@
+Implementing Facebook social widget
+==================================
+
+Step 1: Go to https://developers.facebook.com
+Step 2: Go to "social plugins"
