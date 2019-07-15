@@ -22,7 +22,7 @@ Since this study is ongoing, basic functionalities are covered first and more ad
 | ---------------------------------------- | ----------------------------------------------|
 | Facebook Widget                          |    Recommend button                                             |
 | Twitter Widget                           |    Tweet button                                             |
-| Twitter Timeline Widget                  |    Timeline w/ custom data attrib.(noborders, nofooter, noscrollbar, and tweetlimit)   |  
+| Twitter Timeline Widget                  |    Timeline w/ custom data attributes: noborders, nofooter, noscrollbar, and tweetlimit   |  
 
 
 <br>
