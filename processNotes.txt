@@ -56,3 +56,25 @@ step 5: Add a tweet button by going to "tweet button" in the side column (still 
     o   To create a basic tweet button, simply CP the new anchor element snippet.
 
         <a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>
+
+
+
+
+Implementing twitter timeline
+==============================
+Step 1: Go to https://developer.twitter.com/en/docs.html
+Step 2: Go to "twitter for websites" and "Timelines".
+
+Step 3: Create your timeline in the configurator and CP the code into your HTML document.
+
+        <a class="twitter-timeline" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets - Curated tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Step 4: You can also customize the timeline with specific data attributes, such as limiting the amount of tweet displayed
+    o   For example, adding data-chrome="" and then adding the tokens you want:
+        o   noheader
+        o   nofooter
+        o   noborders
+        o   noscrollbar
+        o   transparent
+
+    o   You can also limit the amount of tweets shown, use data-tweet-limit="X".

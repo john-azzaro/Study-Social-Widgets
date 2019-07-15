@@ -12,6 +12,10 @@ body {                                                                          
     overflow: hidden;                                                                                      /* and get rid of the scrollbar*/
 }
 
-.twitter {
-    padding: 30px;
+.twitter-tweet {
+    padding: 60px;
+}
+
+.twitter-timeline {
+    padding: 10px;
 }
