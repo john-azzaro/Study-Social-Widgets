@@ -28,4 +28,31 @@ Step 4: Get code.
 Implementing twitter social widget
 ==================================
 Step 1: Go to https://developer.twitter.com/en/docs.html
-Step 2: Go to "twitter for websites"
+Step 2: Go to "twitter for websites" and "JavaScript API"
+
+Step 3: Take the script provided:
+
+        <script>window.twttr = (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0],
+            t = window.twttr || {};
+        if (d.getElementById(id)) return t;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js, fjs);
+
+        t._e = [];
+        t.ready = function(f) {
+            t._e.push(f);
+        };
+
+        return t;
+        }(document, "script", "twitter-wjs"));</script>
+
+
+Step 4: place the script in your desired html location.
+
+step 5: Add a tweet button by going to "tweet button" in the side column (still within "twitter for websites")
+    o   To create a basic tweet button, simply CP the new anchor element snippet.
+
+        <a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a>

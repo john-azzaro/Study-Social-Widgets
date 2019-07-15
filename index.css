@@ -11,3 +11,7 @@ body {                                                                          
     align-items: center;                                                                                   /* then align-items center to put the clock exactly in the middle of the screen. */
     overflow: hidden;                                                                                      /* and get rid of the scrollbar*/
 }
+
+.twitter {
+    padding: 30px;
+}
