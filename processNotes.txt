@@ -6,3 +6,17 @@ Step 2: Go to "social plugins"
 
 Step 3: choose the configuration of your button (in this example a like button):
     o   URL to like --- Insert the url of your page to like.
+    o   Layout -- type of button layout (stacked, side by side, etc.)
+    o   Width --- will set the width of the plugin 
+
+Step 4: Get code.
+    o   You will get two steps:
+
+        #1
+        ====================================
+            <div id="fb-root"></div> 
+            <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.3"></script>
+
+        #2
+        ====================================
+            <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="100px" data-layout="box_count" data-action="recommend" data-size="small" data-show-faces="false" data-share="true"></div>
