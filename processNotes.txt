@@ -1,5 +1,8 @@
 Implementing Facebook social widget
 ==================================
 
-Step 1: Go to https://developers.facebook.com
+Step 1: Go to https://developers.facebook.com/docs/plugins
 Step 2: Go to "social plugins"
+
+Step 3: choose the configuration of your button (in this example a like button):
+    o   URL to like --- Insert the url of your page to like.
