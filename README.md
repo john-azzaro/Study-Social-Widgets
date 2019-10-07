@@ -17,7 +17,6 @@ Here are a few questions I examine in this study:
 
 ## What are the key takeaways from the Social Widgets Study?
 
-<br>
 <dl>
 
 ### ALL social media widgets come prepackaged
@@ -28,10 +27,13 @@ Pretty straight forward, all social media platforms will have a prepackaged butt
 
 </dd>
 
+### Buttons can be standard or custom
+----------
+<dd>
 
+You can customize your buttons with unique designs to fit with your web design.  However, going with a custom design might have some unintended drabacks by making the button invisible to the user who may be used to the design of the standard button. Seems like this should be done with careful thought in mind.
 
-
-
+</dd>
 
 </dl>
 
