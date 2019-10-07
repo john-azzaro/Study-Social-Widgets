@@ -8,11 +8,32 @@ Social widgets are a great way getting customers to add social interaction and s
 
 Here are a few questions I examine in this study:
 
-* [](#)
+* [What are the key takeaways from the Social Widgets Study?](#What-are-the-key-takeaways-from-the-Social-Widgets-Study)
 * [Does the Widgets Study feature commentary?](#Does-the-Widgets-Study-feature-commentary)
 * [What are the key features of the Social Widgets Study?](#What-are-the-key-features-of-the-Social-Widgets-Study)
 * [Screenshots](#Screenshots)
 
+<br>
+
+## What are the key takeaways from the Social Widgets Study?
+
+<br>
+<dl>
+
+### ALL social media widgets come prepackaged
+--------
+<dd> 
+
+Pretty straight forward, all social media platforms will have a prepackaged button to use on your site. This study dealt with exactly those buttons (i.e. twitter, facebook, facebook timeline) where the script is embedded directly into the page. Note that there are more elegant and orginazied solutions where the scripts can be stored in seperate files but for a superficial study it works out rather well.
+
+</dd>
+
+
+
+
+
+
+</dl>
 
 <br>
 
