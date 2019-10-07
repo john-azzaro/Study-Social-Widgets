@@ -6,6 +6,13 @@ See it Live: https://john-azzaro.github.io/Study-Social-Widgets/
 ## What is the Social Widgets Study?
 Social widgets are a great way getting customers to add social interaction and support for your product or service.  "Social Widgets Study" is an examination of various social media button, timelines, etc. from providers such as facebook, twitter, etc.  This study currently has 3 widgets including a facebook "like" button, twitter "tweet" button, and a twitter timeline.  More example of social widgets will be added in the future.
 
+Here are a few questions I examine in this study:
+
+* [](#)
+* [Does the Widgets Study feature commentary?](#Does-the-Widgets-Study-feature-commentary)
+* [What are the key features of the Social Widgets Study?](#What-are-the-key-features-of-the-Social-Widgets-Study)
+* [Screenshots](#Screenshots)
+
 
 <br>
 
