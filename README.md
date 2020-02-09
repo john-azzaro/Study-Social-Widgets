@@ -17,7 +17,6 @@ Here are a few questions I examine in this study:
 
 ## What are the key takeaways from the Social Widgets Study?
 
-<br>
 <dl>
 
 ### ALL social media widgets come prepackaged
